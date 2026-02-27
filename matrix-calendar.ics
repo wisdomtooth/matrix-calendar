@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:icalendar-ruby
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20260226T222144Z
+UID:8b9d0685-9657-4305-9fed-470ae45b65ac
+DTSTART:20260307T090000
+DTEND:20260307T091500
+DESCRIPTION:Properly Managed I Elevated Buderim Living  Bright\, Airy & Bea
+ utifully Appointed
+LOCATION:58/8 Starling Street\, Buderim 4556\, QLD
+ORGANIZER:mailto:housemark@mail.inspectrealestate.com.au
+SUMMARY:Property Inspection: 58/8 Starling Street\, Buderim 4556\, QLD
+URL;VALUE=URI:https://www.rent.com.au/property/58-8-starling-st-buderim-qld
+ -4556-6305263
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:Property Inspection: 58/8 Starling Street\, Buderim 4556\, QLD
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT15M
+DESCRIPTION:Property Inspection: 58/8 Starling Street\, Buderim 4556\, QLD
+END:VALARM
+END:VEVENT
+END:VCALENDAR
