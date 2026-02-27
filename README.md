@@ -1,4 +1,4 @@
-## 📅 Matrix Calendar (364)
+## 📅 Matrix Calendar (13 x 28 + 1)
 
 The **Matrix Calendar** is a Gregorian-anchored 13×28 fixed-year time system.
 
