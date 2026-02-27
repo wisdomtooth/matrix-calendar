@@ -52,7 +52,6 @@ It is an overlay system and does not replace existing civil, religious, or legal
 ## Files Included
 
 -   `matrix-calendar.ics` — Import into Google Calendar / Android / iOS
--   `index.html` — Simple web interface for download
 
 * * *
 
